@@ -1,0 +1,19 @@
+@import url("https://pegasus-ui.netlify.app/css/main.css");
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 81rem;
+  min-height: 100vh;
+  margin: 0 auto;
+}
+.product-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 81rem;
+}
+.loading{
+  color: blueviolet;
+  font-weight: 500;
+}

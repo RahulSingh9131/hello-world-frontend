@@ -1,0 +1,25 @@
+.productcard{
+    margin: 1rem;
+    background-color: white;
+}
+.card .card-category{
+    position: absolute;
+    color: white;
+    background-color: red;
+    border-bottom-left-radius: .7rem;
+    border-top-right-radius: .7rem;
+    font-size: .813rem;
+    padding: .3rem;
+    top: .7rem;
+    left: -.5rem;
+}
+.body-category{
+    font-size: .8rem;
+}
+.card .body-title{
+    text-transform: capitalize;
+}
+.card .number-rating-container{
+    margin-left: .25rem;
+    font-size: .917rem;
+}
